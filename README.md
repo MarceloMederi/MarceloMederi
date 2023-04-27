@@ -1,7 +1,7 @@
 ## Um pouco sobre mim
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#D83B7C&height=120&section=header"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Marcelo+Medeiros+dos+Santos;Eu+tenho+31+anos,+moro+em+Uberlândia+MG;Estudo+Sistema+de+Informação;Pretendo+ser+um+futuro+Programador+:%29)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BABBBD&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Marcelo+Medeiros+dos+Santos;Eu+tenho+31+anos,+moro+em+Uberlândia+MG;Estudo+Sistema+de+Informação;Pretendo+ser+um+futuro+Programador+:%29)
 
 :raised_hand: Me chamo Marcelo :computer:<br/>
 :small_blue_diamond:Trabalho na area de TI <br/>
