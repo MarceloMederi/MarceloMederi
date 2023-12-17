@@ -41,4 +41,4 @@
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5534984096698/)
 
-
+![GitHub Contributions Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
