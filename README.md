@@ -1,4 +1,6 @@
-# Um Pouco Sobre Mim
+Certamente! Aqui está uma versão revisada incorporando as sugestões de melhoria:
+
+# Sobre Mim
 ![Wave](https://capsule-render.vercel.app/api?type=waving&color=#D83B7C&height=120&section=header)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BABBBD&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Marcelo+Medeiros+dos+Santos;Tenho+31+anos+e+moro+em+Uberlândia,+MG;Estudo+Sistemas+de+Informação;Pretendo+ser+um+futuro+Desenvolvedor+Front-End+%3A%29)
@@ -36,8 +38,8 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-## Quero ser um Futuro Programador me siga.
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/marcelo-medeiros-dos-santos-9aa50b1a7/)
+## Quero ser um Futuro Programador - Me Siga!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-medeiros-dos-santos-9aa50b1a7/)
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5534984096698/)
 
