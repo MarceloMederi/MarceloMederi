@@ -8,7 +8,7 @@ Certamente! Aqui está uma versão revisada incorporando as sugestões de melhor
 👋 Olá, eu sou Marcelo 💻<br/>
 - 📘 Trabalho na área de TI
 - 🔧 Atualmente, sou Técnico de Suporte em TI no Sabin Medicina Diagnóstica, em Uberlândia-MG
-- 🎓 No penúltimo período de Sistemas de Informação
+- 🎓 Bacharel em Sistemas de Informação
 - 🚀 Aspirante a Desenvolvedor Front-End
 - 💻 Conhecimentos em HTML, CSS, JavaScript, Node.js e Docker
 - 🌱 "O sênior de hoje foi um junior no passado."
