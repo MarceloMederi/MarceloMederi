@@ -1,4 +1,3 @@
-Certamente! Aqui está uma versão revisada incorporando as sugestões de melhoria:
 
 # Sobre Mim
 ![Wave](https://capsule-render.vercel.app/api?type=waving&color=#D83B7C&height=120&section=header)
