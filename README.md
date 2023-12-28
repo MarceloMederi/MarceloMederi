@@ -12,12 +12,12 @@
 - 💻 Conhecimentos em HTML, CSS, JavaScript, Node.js e Docker
 - 🌱 "O sênior de hoje foi um junior no passado."
 
+## Meu status
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarceloMederi&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=MarceloMederi&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloMederi&show_icons=true&theme=radical)](https://github.com/MarceloMederi/github-readme-stats)
 ![Trophies](https://github-profile-trophy.vercel.app/?username=MarceloMederi&show_icons=true&theme=radical)
 ![Daily Contributions](https://github-readme-streak-stats.herokuapp.com/?user=MarceloMederi)
-![Contributions per Repository](https://github-readme-stats.vercel.app/api?username=MarceloMederi&count_private=true&show_icons=true&include_all_commits=true)
 
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMarceloMederi)
