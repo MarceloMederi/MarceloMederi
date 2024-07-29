@@ -1,7 +1,7 @@
 # Sobre Mim
 ![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BABBBD&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Marcelo+Medeiros+dos+Santos;Tenho+31+anos+e+resido+em+Uberlândia,+MG;Sou+formado+em+Sistemas+de+Informação;Aspiro+a+me+tornar+um+Desenvolvedor+Front-End+%3A%29)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BABBBD&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Marcelo+Medeiros+dos+Santos;Tenho+33+anos+e+resido+em+Uberlândia,+MG;Sou+formado+em+Sistemas+de+Informação;Aspiro+a+me+tornar+um+Desenvolvedor+Front-End+%3A%29)
 
 
 👋 Olá, eu sou Marcelo 💻<br/>
