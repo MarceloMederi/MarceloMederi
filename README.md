@@ -15,12 +15,14 @@
 ## Meu status
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarceloMederi&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=MarceloMederi&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloMederi&show_icons=true&theme=radical)](https://github.com/MarceloMederi/github-readme-stats)
+[![GitHub Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarceloMederi&theme=radical)](https://github.com/MarceloMederi)
 ![Trophies](https://github-profile-trophy.vercel.app/?username=MarceloMederi&show_icons=true&theme=radical)
 ![Daily Contributions](https://github-readme-streak-stats.herokuapp.com/?user=MarceloMederi)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMarceloMederi&title=Visualizações&title_bg=00FF00&icon=github.svg&icon_color=white&background=FF5733&text=FFFFFF&ring=0000FF)
 
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMarceloMederi)
+## Minhas Atividades Recentes
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=MarceloMederi&theme=radical)
 
 ## Tecnologias que Tenho Conhecimento Básico
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=323330)
