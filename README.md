@@ -1,8 +1,8 @@
 # Sobre Mim
 ![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BABBBD&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Marcelo+Medeiros+dos+Santos;Tenho+33+anos+e+resido+em+Uberlândia,+MG;Sou+formado+em+Sistemas+de+Informação;Aspiro+a+me+tornar+um+Desenvolvedor+Front-End+%3A%29)
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BABBBD&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Marcelo+Medeiros+dos+Santos;Tenho+33+anos+e+resido+em+Uberlândia,+MG;Sou+formado+em+Sistemas+de+Informação;Aspiro+a+me+tornar+um+Desenvolvedor+Front-End+%3A%29)
 
 👋 Olá, eu sou Marcelo 💻<br/>
 - 📘 Trabalho na área de QA
@@ -11,6 +11,7 @@
 - 🚀 Aspirante a Analista de testes
 - 💻 Conhecimentos em HTML, CSS, JavaScript, Node.js,Docker, Postman, SQL Developer e Soap
 - 🌱 "O sênior de hoje foi um junior no passado."
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300">
 
 ## Meu status
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarceloMederi&show_icons=true&theme=radical)
@@ -23,6 +24,7 @@
 
 ## Minhas Atividades Recentes
 ![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=MarceloMederi&theme=radical)
+![Cool Dev](https://img.shields.io/badge/Cool%20Dev-%E2%9C%A8-brightgreen?style=for-the-badge)
 
 ## Tecnologias que Tenho Conhecimento Básico
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=323330)
