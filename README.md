@@ -5,11 +5,11 @@
 
 
 👋 Olá, eu sou Marcelo 💻<br/>
-- 📘 Trabalho na área de TI
-- 🔧 Atualmente, sou Técnico de Suporte em TI no Sabin Medicina Diagnóstica, em Uberlândia-MG
+- 📘 Trabalho na área de QA
+- 🔧 Atualmente, sou Analista de testes /QA, na NTT DATA Europe & Latam em Uberlândia-MG
 - 🎓 Bacharel em Sistemas de Informação
-- 🚀 Aspirante a Desenvolvedor Front-End
-- 💻 Conhecimentos em HTML, CSS, JavaScript, Node.js e Docker
+- 🚀 Aspirante a Analista de testes
+- 💻 Conhecimentos em HTML, CSS, JavaScript, Node.js,Docker, Postman, SQL Developer e Soap
 - 🌱 "O sênior de hoje foi um junior no passado."
 
 ## Meu status
@@ -31,6 +31,9 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![CentOS](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![SQL Developer](https://img.shields.io/badge/SQL%20Developer-4479A1?style=for-the-badge&logo=Oracle&logoColor=white)
+![SOAP](https://img.shields.io/badge/SOAP-0098D6?style=for-the-badge&logo=SOAP&logoColor=white)
 
 ## O Que Estou Estudando Atualmente
 ![Express.js](https://img.shields.io/badge/express.js-61DAFB?style=for-the-badge&logo=express&logoColor=404d59)
