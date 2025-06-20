@@ -15,7 +15,7 @@
 
 ## Meu status
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarceloMederi&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=MarceloMederi&show_icons=true&theme=radical)
+
 [![GitHub Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarceloMederi&theme=radical)](https://github.com/MarceloMederi)
 ![Trophies](https://github-profile-trophy.vercel.app/?username=MarceloMederi&show_icons=true&theme=radical)
 ![Hits](https://komarev.com/ghpvc/?username=MarceloMederi&color=blueviolet)
