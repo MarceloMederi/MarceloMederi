@@ -6,7 +6,7 @@
 
 👋 Olá, eu sou Marcelo 💻<br/>
 - 📘 Trabalho na área de QA
-- 🔧 Atualmente, sou Analista de testes /QA, na NTT DATA Europe & Latam em Uberlândia-MG
+- 🔧 Atualmente, sou Analista de testes / QA, na NTT DATA Europe & Latam em Uberlândia-MG
 - 🎓 Bacharel em Sistemas de Informação
 - 🚀 Aspirante a Analista de testes
 - 💻 Conhecimentos em HTML, CSS, JavaScript, Node.js,Docker, Postman, SQL Developer e Soap
@@ -24,25 +24,25 @@
 ![Cool Dev](https://img.shields.io/badge/Cool%20Dev-%E2%9C%A8-brightgreen?style=for-the-badge)
 
 ## Tecnologias que Tenho Conhecimento Básico
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=323330)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-262577?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=FFD43B)
-![CentOS](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![SQL Developer](https://img.shields.io/badge/SQL%20Developer-4479A1?style=for-the-badge&logo=Oracle&logoColor=white)
-![SOAP](https://img.shields.io/badge/SOAP-0098D6?style=for-the-badge&logo=SOAP&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=323330)
+- ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+- ![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
+- ![Linux](https://img.shields.io/badge/Linux-262577?style=for-the-badge&logo=linux&logoColor=FCC624)
+- ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=FFD43B)
+- ![CentOS](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white)
+- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+- ![SQL Developer](https://img.shields.io/badge/SQL%20Developer-4479A1?style=for-the-badge&logo=Oracle&logoColor=white)
+- ![SOAP](https://img.shields.io/badge/SOAP-0098D6?style=for-the-badge&logo=SOAP&logoColor=white)
 
 ## O Que Estou Estudando Atualmente
-![Express.js](https://img.shields.io/badge/express.js-61DAFB?style=for-the-badge&logo=express&logoColor=404d59)
-![jQuery](https://img.shields.io/badge/jquery-white?style=for-the-badge&logo=jquery&logoColor=0769AD)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-white?style=for-the-badge&logo=docker&logoColor=0db7ed)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=20232A)
+- ![Express.js](https://img.shields.io/badge/express.js-61DAFB?style=for-the-badge&logo=express&logoColor=404d59)
+- ![jQuery](https://img.shields.io/badge/jquery-white?style=for-the-badge&logo=jquery&logoColor=0769AD)
+- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+- ![Docker](https://img.shields.io/badge/docker-white?style=for-the-badge&logo=docker&logoColor=0db7ed)
+- ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+- ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=20232A)
 
 ## Quero ser um Futuro Programador - Me Siga!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/marcelo-medeiros-dos-santos-9aa50b1a7/)
