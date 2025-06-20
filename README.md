@@ -49,4 +49,43 @@
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-white?style=for-the-badge&logo=whatsapp&logoColor=25D366)](https://wa.me/+5534984096698/)
 
+## Projetos em Destaque
+
+### 🌐 Calendário Digital
+[![Calendário Digital](https://img.shields.io/badge/Calendário%20Digital-FF5733?style=for-the-badge&logo=appveyor)](https://calendario-digital.vercel.app/)
+Uma aplicação web que permite visualizar e gerenciar eventos de forma simples e intuitiva.
+**Tecnologias**: HTML, CSS, JavaScript, APIs e Docker.
+
+---
+
+### 🌐 Text to Speech
+[![Text to Speech](https://img.shields.io/badge/Text%20to%20Speech-Node.js-4CAF50?style=for-the-badge)](https://text-to-speech-lovat.vercel.app/)
+Uma aplicação que converte texto em fala utilizando Node.js.
+**Tecnologias**: HTML, CSS, JavaScript, Node.js e Biblioteca Google.
+
+---
+
+### 🌐 Text Speech
+[![Text Speech](https://img.shields.io/badge/Text%20Speech-Flask-FF5733?style=for-the-badge)](https://text-speech-flask.vercel.app/)
+Uma aplicação de conversão de texto em fala desenvolvida com Flask.
+**Tecnologias**: Flask, Python e Biblioteca Google.
+
+---
+
+### 🌐 Cálculo de Combustível
+[![Cálculo de Combustível](https://img.shields.io/badge/C%C3%A1lculo%20de%20Combust%C3%ADvel-React-61DAFB?style=for-the-badge)](https://consumo-combustivel-react-2gk7.vercel.app/)
+Uma aplicação que calcula o consumo de combustível.
+**Tecnologias**: React.
+
+---
+
+### 🌐 Portfólio
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-React-61DAFB?style=for-the-badge)](https://portifolio-pied-seven-52.vercel.app/)
+Meu portfólio pessoal desenvolvido em React.
+**Tecnologias**: React.
+
+---
+
+👉 **Experimente cada projeto e veja como eles funcionam!**
+
 ![GitHub Contributions Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
