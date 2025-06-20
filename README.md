@@ -18,9 +18,7 @@
 ![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=MarceloMederi&show_icons=true&theme=radical)
 [![GitHub Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarceloMederi&theme=radical)](https://github.com/MarceloMederi)
 ![Trophies](https://github-profile-trophy.vercel.app/?username=MarceloMederi&show_icons=true&theme=radical)
-![Daily Contributions](https://github-readme-streak-stats.herokuapp.com/?user=MarceloMederi)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMarceloMederi&title=Visualizações&title_bg=00FF00&icon=github.svg&icon_color=white&background=FF5733&text=FFFFFF&ring=0000FF)
-
+![Hits](https://komarev.com/ghpvc/?username=MarceloMederi&color=blueviolet)
 
 ## Minhas Atividades Recentes
 ![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=MarceloMederi&theme=radical)
